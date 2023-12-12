@@ -7,12 +7,9 @@
     <artifactId>toolkitx</artifactId>
     <version>1</version>
 
-    <repositories>
-        <repository>
-            <id>jitpack.io</id>
-            <url>https://jitpack.io</url>
-        </repository>
-    </repositories>
+    <!-- 这里添加 toolkitx 所依赖的外部库 -->
+    <dependencies>
+        <!-- 外部依赖项 -->
+    </dependencies>
 
-    <!-- 如果有其他配置（如构建配置、插件等），也应该包含在这个 <project> 标签内 -->
 </project>
