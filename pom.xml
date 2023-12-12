@@ -5,7 +5,7 @@
 
     <groupId>com.xiong.toolkitx</groupId>
     <artifactId>toolkitx</artifactId>
-    <version>1</version>
+    <version>1.0.0</version>
 
     <!-- 这里添加 toolkitx 所依赖的外部库 -->
     <dependencies>
