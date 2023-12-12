@@ -13,15 +13,9 @@
             <url>https://jitpack.io</url>
         </repository>
     </repositories>
-
-    <dependencies>
-        <dependency>
-            <groupId>com.github.lipeixiong1135</groupId>
-            <artifactId>toolkitx</artifactId>
-            <version>Tag</version>
-        </dependency>
-        <!-- 其他依赖项可以在这里添加 -->
-    </dependencies>
-
-    <!-- 如果有其他配置（如构建配置、插件等），也应该包含在这个 <project> 标签内 -->
+    <dependency>
+        <groupId>com.github.lipeixiong1135</groupId>
+        <artifactId>toolkitx</artifactId>
+        <version>1.0.0</version> 
+    </dependency>
 </project>
