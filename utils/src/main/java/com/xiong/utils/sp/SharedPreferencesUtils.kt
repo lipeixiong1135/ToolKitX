@@ -1,4 +1,4 @@
-package com.xiong.toolkitx.sp
+package com.xiong.utils.sp
 
 import android.content.Context
 import android.content.SharedPreferences
